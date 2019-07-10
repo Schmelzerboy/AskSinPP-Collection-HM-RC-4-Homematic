@@ -88,32 +88,32 @@ Wichtig! LED Rechteckig 2x5x7mm muss wie im Bild um 90 Grad umgebogen werden und
 -	4 Löcher mit 1,5 mm Bohrer wie im Bild aufbohren
 -	Mircotaster wie abgebildet auf Lochraster positionieren und verlöten
  
- ![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%206.JPG)
+ ![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%206.JPG)
 
 -	Tasten in die Oberschale einlegen
 -	Lochraster mit Micotaster einbauen und festziehen
  
-![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%207.JPG)
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%207.JPG)
 
 5.	BL8580 DC/DC Step-Up und Batterie-Federplatte wie im Bild einsetzten und Litzendrähe anlöten.
  
-![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%208.JPG)
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%208.JPG)
 
 6.	Arduino in die Oberschale einschieben. Antenne seitlich um den Pro Mini legen. 
  
-![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%208.JPG)
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%208.JPG)
 
 7.	M2 Mutter in die Unterschale einkleben
  
-![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%209.JPG)
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%209.JPG)
 
 8.	Arduino mit Isoband abkleben, das ist nötig da die Litzendrähte sich leicht an den Lötpins verhacken
 
-![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%210.JPG)
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%210.JPG)
  
 9.	Ober- und Unterschale vorsichtig zusammen setzen und mit M2 Schraube sichern 
 
-![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%211.JPG)
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%211.JPG)
 
 
 Fertig
