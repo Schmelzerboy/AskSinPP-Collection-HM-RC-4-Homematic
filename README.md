@@ -54,3 +54,68 @@ https://www.reichelt.de/10pol-stiftleiste-gerade-rm-2-00-sl-1x10g-2-00-p51693.ht
 
 •	Div. Litzendraht
 
+
+
+Grundlagen / flashen / Anlernen an die CCU:
+https://asksinpp.de/
+Sketch:
+https://github.com/jp112sdl/Beispiel_AskSinPP/blob/master/examples/HM-PBI-4-FM/HM-PBI-4-FM.ino
+
+1.	Teile Ausdrucken https://www.thingiverse.com/thing:3667980
+-	1 mal No.1  Oberschale.lst / Support setzten!
+-	2 mal No. 2 Unterschale.lst
+-	1 mal Tasten 1-4.lst
+
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%202.JPG)
+ 
+2.	Platine zusammen löten. Als Antenne kann man einfach einen „Klingeldraht“  benutzen (8,3 mm lang)
+
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%203.JPG)
+
+
+Wichtig! LED Rechteckig 2x5x7mm muss wie im Bild um 90 Grad umgebogen werden und so abgelötet werden
+
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%204.JPG)
+ 
+
+3.	6 Litzen (ca. 10 cm lang) am Arduino anlöten, Siehe Bezeichnung auf Platine 
+
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%205.JPG)
+ 
+
+4.	Lochraster Platine 
+-	Lochraster hat die exakten Masse 42,2 * 15,7 mm, zur Orientierung die „Kupferfelder“ zählen und auf dieses Maß zu sägen
+-	4 Löcher mit 1,5 mm Bohrer wie im Bild aufbohren
+-	Mircotaster wie abgebildet auf Lochraster positionieren und verlöten
+ 
+ ![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%206.JPG)
+
+-	Tasten in die Oberschale einlegen
+-	Lochraster mit Micotaster einbauen und festziehen
+ 
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%207.JPG)
+
+5.	BL8580 DC/DC Step-Up und Batterie-Federplatte wie im Bild einsetzten und Litzendrähe anlöten.
+ 
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%208.JPG)
+
+6.	Arduino in die Oberschale einschieben. Antenne seitlich um den Pro Mini legen. 
+ 
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%208.JPG)
+
+7.	M2 Mutter in die Unterschale einkleben
+ 
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%209.JPG)
+
+8.	Arduino mit Isoband abkleben, das ist nötig da die Litzendrähte sich leicht an den Lötpins verhacken
+
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%210.JPG)
+ 
+9.	Ober- und Unterschale vorsichtig zusammen setzen und mit M2 Schraube sichern 
+
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%211.JPG)
+
+
+Fertig
+
+
