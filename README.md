@@ -76,7 +76,7 @@ https://github.com/jp112sdl/Beispiel_AskSinPP/blob/master/examples/HM-PBI-4-FM/H
 
 Wichtig! LED Rechteckig 2x5x7mm muss wie im Bild um 90 Grad umgebogen werden und so abgelötet werden
 
-![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%204.JPG)
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%204.jpg)
  
 
 3.	6 Litzen (ca. 10 cm lang) am Arduino anlöten, Siehe Bezeichnung auf Platine 
@@ -93,18 +93,21 @@ Wichtig! LED Rechteckig 2x5x7mm muss wie im Bild um 90 Grad umgebogen werden und
 
 -	Tasten in die Oberschale einlegen
 -	Lochraster mit Micotaster einbauen und festziehen
- 
-![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%207.jpg)
 
-5.	BL8580 DC/DC Step-Up und Batterie-Federplatte wie im Bild einsetzten und Litzendrähe anlöten.
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/tasten.jpg)
  
-![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%208.JPG)
+5.	BL8580 DC/DC Step-Up und Batterie-Federplatte wie im Bild einsetzten und Litzendrähe anlöten
+
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%207.jpg)
 
 6.	Arduino in die Oberschale einschieben. Antenne seitlich um den Pro Mini legen. 
  
-![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%209.jpg)
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%208.jpg)
 
 7.	M2 Mutter in die Unterschale einkleben
+ 
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%209.jpg)
+
  
 ![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%209.jpg)
 
