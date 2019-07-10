@@ -1,6 +1,6 @@
 # AskSinPP-Collection-HM-RC-4-Homematic
 
-![alt text]https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%201.jpg
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/Bild%201.jpg)
 
 
 AskSinPP Collection HM-RC-4 Homematic
