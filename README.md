@@ -111,11 +111,11 @@ Wichtig! LED Rechteckig 2x5x7mm muss wie im Bild um 90 Grad umgebogen werden und
  
 8.	Arduino mit Isoband abkleben, das ist nötig da die Litzendrähte sich leicht an den Lötpins verhacken
 
-![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%2010.JPG)
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%2010.jpg)
  
 9.	Ober- und Unterschale vorsichtig zusammen setzen und mit M2 Schraube sichern 
 
-![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%2011.JPG)
+![alt text](https://github.com/Schmelzerboy/AskSinPP-Collection-HM-RC-4-Homematic/blob/master/bild%2011.jpg)
 
 
 Fertig
